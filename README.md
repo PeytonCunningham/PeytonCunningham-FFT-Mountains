@@ -10,11 +10,11 @@ By processing images to extract frequency information, patterns that are not imm
 ## Goals
 Implement Image Preprocessing: Images are converted to grayscale, and resized, and histogram equalization is applied to standardize the input.
 
-Apply FFT to Images: Images are transformed into the frequency domain to analyze their frequency components.
+**Apply FFT to Images**: Images are transformed into the frequency domain to analyze their frequency components.
 
-Feature Extraction: Significant features are extracted from the FFT magnitude spectrum for each image.
+**Feature Extraction**: Significant features are extracted from the FFT magnitude spectrum for each image.
 
-Image Clustering: Clustering algorithms (K-Means) are used to group images based on their frequency features.
+**Image Clustering**: Clustering algorithms (K-Means) are used to group images based on their frequency features.
 
 The project involves coding and implementing image preprocessing, FFT application, feature extraction, and clustering algorithms. Python libraries are used, such as numpy, opencv, scipy, and sklearn.
 
@@ -32,7 +32,7 @@ pip install numpy opencv-python-headless scipy scikit-learn matplotlib
 **Prepare the Dataset**:
 Place mountain images in a folder. Note: the images should be in JPEG or PNG format.
 
-Update the Image Folder Path:
+**Update the Image Folder Path**:
 Modify the image_folder variable in the main function of fft_image_processing.py to point to the folder containing the images.
 
 **Execute the Script**:
