@@ -66,7 +66,7 @@ Since the project is executable, results can be seen by directly running the scr
 
 ## Notes on the Project
 
-I chose to work with image processing for this project due to my prior experience with it in the 1300 course. Additionally, I incorporated the K-Means clustering algorithm, drawing from my knowledge gained in the 2800 course. I opted for the **Fast Fourier Transform (FFT)** because of its ability to reveal characteristics and similarities in images that might not be immediately noticeable to myself or others.
+I chose to work with image processing for this project due to my prior experience with it in the 1300 course. Additionally, I incorporated the K-Means clustering algorithm, drawing from my knowledge gained in the 2800 course. I opted for the **Fast Fourier Transform (FFT)** because of its ability to reveal characteristics and similarities in images that might not be immediately noticeable to myself or others..
 
 ## Future Applications
 I envision this project as having practical applications in identifying potential new crags and boulders. In climbing, a crag refers to an area with large rock walls used for various forms of roped climbing, and boulders, are freestanding rocks climbed without ropes. In the specialized field of outdoor climbing development, developers often use social media to search for images of rock faces and boulders that could be suitable for climbing. By employing an algorithm like FFT, these images can be pre-sorted to enhance the efficiency of this search, potentially aiding climbers in discovering new climbing spots more effectively.
