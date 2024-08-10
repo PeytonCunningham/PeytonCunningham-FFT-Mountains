@@ -43,7 +43,7 @@ Run the Python script from the **command line**:
 python fft_image_processing.py
 ```
 **View Results**:
-The script will display clusters of images using **matplotlib.** Each cluster represents a group of images with similar frequency features.
+The script will save png files of clusters of the images using **matplotlib.** Each cluster represents a group of images with similar frequency features.
 
 ## What the Project Does
 In this project, I process images using FFT to analyze their frequency components and then group similar images based on extracted features. 
